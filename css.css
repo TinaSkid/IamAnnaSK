@@ -257,7 +257,7 @@ header .block2 {
     font-size: 1.8rem;
 }
 /* footer */
-footer {
+.skrasli footer {
     width: 60%;
     height: 30px;
     background-color: #000000;
@@ -265,7 +265,7 @@ footer {
     align-items: center;
     justify-content: center;
 }
-footer span,a {
+.skrasli footer span,a {
     color: white;
 }
 /* ---------------------------- */
